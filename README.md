@@ -16,7 +16,7 @@ Automatizar o processo diário de envio de relatório de vendas, reduzindo ativi
   - Abertura do Gmail
   - Preenchimento automático do destinatário, assunto e corpo do e-mail
   - Envio automático do relatório
-  - 
+
 ### 4️⃣ Indicadores calculados
 
   - Faturamento total
